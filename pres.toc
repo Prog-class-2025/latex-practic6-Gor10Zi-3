@@ -3,5 +3,5 @@
 \beamer@sectionintoc {2}{Академічні досягнення}{4}{0}{2}
 \beamer@sectionintoc {3}{Навчальні інтереси}{5}{0}{3}
 \beamer@sectionintoc {4}{Коротко про мене}{6}{0}{4}
-\beamer@sectionintoc {5}{Моє хоббі}{8}{0}{5}
-\beamer@sectionintoc {6}{Висновок}{9}{0}{6}
+\beamer@sectionintoc {5}{Моє хоббі}{7}{0}{5}
+\beamer@sectionintoc {6}{Висновок}{8}{0}{6}

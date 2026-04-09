@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.20)  9 APR 2026 09:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.20)  9 APR 2026 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1175,27 +1175,44 @@ LaTeX Info: Redefining \th on input line 15.
 
 ] [4
 
-] [5
-
 ]
-<foto.png.jpg, id=202, 722.7pt x 1284.8pt>
-File: foto.png.jpg Graphic file (type jpg)
-<use foto.png.jpg>
-Package pdftex.def Info: foto.png.jpg  used on input line 59.
-(pdftex.def)             Requested size: 34.23161pt x 60.85219pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
+
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
+
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 69.
+
+(C:\Program Files\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+<foto1.png.jpg, id=177, 722.7pt x 1284.8pt>
+File: foto1.png.jpg Graphic file (type jpg)
+<use foto1.png.jpg>
+Package pdftex.def Info: foto1.png.jpg  used on input line 69.
+(pdftex.def)             Requested size: 102.68962pt x 182.55658pt.
+ [5
+
+ <./foto1.png.jpg>]
 <foto2.png.jpg, id=204, 963.6pt x 1284.8pt>
 File: foto2.png.jpg Graphic file (type jpg)
 <use foto2.png.jpg>
-Package pdftex.def Info: foto2.png.jpg  used on input line 76.
+Package pdftex.def Info: foto2.png.jpg  used on input line 84.
 (pdftex.def)             Requested size: 68.45801pt x 91.25868pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [6
 
- <./foto.png.jpg>] [7 <./foto2.png.jpg>] [8
+ <./foto2.png.jpg>] [7
 
-] [9
+] [8
 
 ]
 \tf@nav=\write6
@@ -1216,11 +1233,11 @@ Package rerunfilecheck Info: File `pres.out' has not changed.
 (rerunfilecheck)             Checksum: 89C2A2225C38A9428C86B7C423849462;874.
  ) 
 Here is how much of TeX's memory you used:
- 23871 strings out of 467871
- 458849 string characters out of 5419828
+ 23953 strings out of 467871
+ 460835 string characters out of 5419828
  842268 words of memory out of 5000000
- 52254 multiletter control sequences out of 15000+600000
- 632434 words of font info for 47 fonts, out of 8000000 for 9000
+ 52316 multiletter control sequences out of 15000+600000
+ 637972 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,438b,769s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\HP\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass0600.
@@ -1228,9 +1245,9 @@ pk> <C:\Users\HP\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass0800
 .pk> <C:\Users\HP\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass109
 5.pk> <C:\Users\HP\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass14
 40.pk>
-Output written on pres.pdf (9 pages, 522885 bytes).
+Output written on pres.pdf (8 pages, 517649 bytes).
 PDF statistics:
- 477 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
+ 450 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
